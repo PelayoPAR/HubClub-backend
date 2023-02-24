@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "googleFounder",
+        "email": "googleFounder@yahoo.com",
+        "linkedIn": "link",
+        "gitHub": "GH",
+        "portfolio": "another link",
+        "aboutMe": "lorem ipsum bla bla bla",
+        "slug": "googlefounder"
+    },
+    {
+        "id": "2",
+        "name": "notGoogleFounder",
+        "email": "notGoogleFounder@yahoo.com",
+        "linkedIn": "link",
+        "gitHub": "GH",
+        "portfolio": "another link",
+        "aboutMe": "lorem ipsum bla bla bla",
+        "slug": "notgooglefounder"
+    },
+    {
+        "id": "3",
+        "name": "facebookFounder",
+        "email": "facebookFounder@google.com",
+        "linkedIn": "link",
+        "gitHub": "GH",
+        "portfolio": "another link",
+        "aboutMe": "lorem ipsum bla bla bla",
+        "slug": "facebookfounder"
+    },
+    {
+        "id": "4",
+        "name": "otherfacebookFounder",
+        "email": "otherfacebookFounder@yahoo.com",
+        "linkedIn": "link",
+        "gitHub": "GH",
+        "portfolio": "another link",
+        "aboutMe": "lorem ipsum bla bla bla",
+        "slug": "otherfacebookfounder"
+    },
+    {
+        "id": "5",
+        "name": "Jeff Besos",
+        "email": "JeffBesos@yahoo.com",
+        "linkedIn": "link",
+        "gitHub": "GH",
+        "portfolio": "another link",
+        "aboutMe": "lorem ipsum bla bla bla",
+        "slug": "jeff-besos"
+    },
+    {
+        "id": "6",
+        "name": "not Jeffie",
+        "email": "notJeffie@google.com",
+        "linkedIn": "link",
+        "gitHub": "GH",
+        "portfolio": "another link",
+        "aboutMe": "lorem ipsum bla bla bla",
+        "slug": "not-jeffie"
+    },
+    {
+        "id": "7",
+        "name": "Terminator",
+        "email": "Terminator@yahoo.com",
+        "linkedIn": "link",
+        "gitHub": "GH",
+        "portfolio": "another link",
+        "aboutMe": "lorem ipsum bla bla bla",
+        "slug": "terminator"
+    },
+    {
+        "id": "8",
+        "name": "Skynet",
+        "email": "Skynet@google.com",
+        "linkedIn": "link",
+        "gitHub": "GH",
+        "portfolio": "another link",
+        "aboutMe": "lorem ipsum bla bla bla",
+        "slug": "skynet"
+    }
+]
