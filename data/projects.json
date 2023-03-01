@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "projectName": "First Project",
+        "title": "First Project WTF",
         "URL": "https://www.google.com",
         "description": "One of our colleagues made Google",
         "owners": [
@@ -20,7 +20,7 @@
     },
     {
         "id": "2",
-        "projectName": "Second Project",
+        "title": "Second Project  WTF",
         "URL": "https://www.facebook.com",
         "description": "One of our colleagues made Facebook",
         "owners": [
@@ -39,7 +39,7 @@
     },
     {
         "id": "3",
-        "projectName": "Third Project",
+        "title": "Third Project  WTF",
         "URL": "https://www.amazon.com",
         "description": "One of our colleagues made Facebook",
         "owners": [
@@ -58,7 +58,7 @@
     },
     {
         "id": "4",
-        "projectName": "Fourth Project",
+        "title": "Fourth Project  WTF",
         "URL": "https://openai.com/blog/chatgpt/",
         "description": "One of our colleagues made chatGPT",
         "owners": [
