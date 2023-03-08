@@ -15,7 +15,7 @@
             "N"
         ],
         "img": "https://es.web.img3.acsta.net/pictures/18/08/28/21/15/1664480.jpg",
-        "module": "3",
+        "module": "2",
         "slug": "first-project"
     },
     {
@@ -34,7 +34,7 @@
             "N"
         ],
         "img": "https://businessesgrow.com/wp-content/uploads/2017/11/Screenshot-2017-11-23-11.01.32-1024x579.png",
-        "module": "3",
+        "module": "1",
         "slug": "second-project"
     },
     {
@@ -72,7 +72,26 @@
             "N"
         ],
         "img": "https://i.blogs.es/a2119c/terminator-2/1366_2000.jpg",
-        "module": "3",
+        "module": "2",
         "slug": "fourth-project"
+    },
+    {
+        "id": "5",
+        "title": "Fifth Project  WTF",
+        "URL": "https://openai.com/blog/chatgpt/",
+        "description": "One of our colleagues made chatGPT",
+        "owners": [
+            "Terminator",
+            "Skynet"
+        ],
+        "tech_used": [
+            "M",
+            "E",
+            "R",
+            "N"
+        ],
+        "img": "https://i.blogs.es/a2119c/terminator-2/1366_2000.jpg",
+        "module": "3",
+        "slug": "fifth-project"
     }
 ]
