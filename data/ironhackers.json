@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "name": "googleFounder  WTF",
+        "name": "googleFounder",
         "email": "googleFounder@yahoo.com",
         "linkedIn": "link",
         "gitHub": "GH",
@@ -11,7 +11,7 @@
     },
     {
         "id": "2",
-        "name": "notGoogleFounder  WTF",
+        "name": "notGoogleFounder",
         "email": "notGoogleFounder@yahoo.com",
         "linkedIn": "link",
         "gitHub": "GH",
@@ -21,7 +21,7 @@
     },
     {
         "id": "3",
-        "name": "facebookFounder  WTF",
+        "name": "facebookFounder",
         "email": "facebookFounder@google.com",
         "linkedIn": "link",
         "gitHub": "GH",
@@ -31,7 +31,7 @@
     },
     {
         "id": "4",
-        "name": "otherfacebookFounder  WTF",
+        "name": "otherfacebookFounder",
         "email": "otherfacebookFounder@yahoo.com",
         "linkedIn": "link",
         "gitHub": "GH",
@@ -41,7 +41,7 @@
     },
     {
         "id": "5",
-        "name": "Jeff Besos  WTF",
+        "name": "Jeff Besos",
         "email": "JeffBesos@yahoo.com",
         "linkedIn": "link",
         "gitHub": "GH",
@@ -51,7 +51,7 @@
     },
     {
         "id": "6",
-        "name": "not Jeffie  WTF",
+        "name": "not Jeffie",
         "email": "notJeffie@google.com",
         "linkedIn": "link",
         "gitHub": "GH",
@@ -61,7 +61,7 @@
     },
     {
         "id": "7",
-        "name": "Terminator  WTF",
+        "name": "Terminator",
         "email": "Terminator@yahoo.com",
         "linkedIn": "link",
         "gitHub": "GH",
@@ -71,7 +71,7 @@
     },
     {
         "id": "8",
-        "name": "Skynet  WTF",
+        "name": "Skynet",
         "email": "Skynet@google.com",
         "linkedIn": "link",
         "gitHub": "GH",

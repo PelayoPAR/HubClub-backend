@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "title": "First Project WTF",
+        "title": "First Project",
         "URL": "https://www.google.com",
         "description": "One of our colleagues made Google",
         "owners": [
@@ -20,7 +20,7 @@
     },
     {
         "id": "2",
-        "title": "Second Project  WTF",
+        "title": "Second Project",
         "URL": "https://www.facebook.com",
         "description": "One of our colleagues made Facebook",
         "owners": [
@@ -39,7 +39,7 @@
     },
     {
         "id": "3",
-        "title": "Third Project  WTF",
+        "title": "Third Project",
         "URL": "https://www.amazon.com",
         "description": "One of our colleagues made Facebook",
         "owners": [
@@ -58,7 +58,7 @@
     },
     {
         "id": "4",
-        "title": "Fourth Project  WTF",
+        "title": "Fourth Project",
         "URL": "https://openai.com/blog/chatgpt/",
         "description": "One of our colleagues made chatGPT",
         "owners": [
@@ -77,7 +77,7 @@
     },
     {
         "id": "5",
-        "title": "Fifth Project  WTF",
+        "title": "Fifth Project",
         "URL": "https://openai.com/blog/chatgpt/",
         "description": "One of our colleagues made chatGPT",
         "owners": [
